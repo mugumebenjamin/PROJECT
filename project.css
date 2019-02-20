@@ -59,6 +59,9 @@ input.email {
 .content {
     border: 1px solid black;
 
+    -webkit-border-radius: 25px;
+    -webkit-box-shadow: rgb(110,110,110) 10px 10px 10px;
+
 }
 img {
     width: 50px;
