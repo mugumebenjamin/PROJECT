@@ -1,6 +1,12 @@
 body {
     background-color: #eee; 
 }
+.fas{
+    font-size: 100px;
+    color: #f1c24f;
+    padding-top: 80px;
+}
+
 p.origin {
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
